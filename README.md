@@ -1,7 +1,6 @@
 # NutriNavigator: AI-Powered Diet & Wellness Recommendations
 
-![Project Logo](https://via.placeholder.com/150x50?text=NutriNavigator) 
-*(Consider adding an actual logo image here)*
+![Demo Video](image.png) 
 
 ## 🍏 Overview
 
