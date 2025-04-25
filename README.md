@@ -48,6 +48,12 @@ NutriNavigator is an AI-powered web application that provides personalized diet 
     ```bash
     echo "GROQ_API_KEY=your_api_key_here" > .env
     ```
+
+     ## 🔗 Additional Resources
+- **linkden**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/).
+- **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/parhamfarjam).
+- **LinkedIn**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/)
+
     
 Running the Application
 Start the Flask development server:
